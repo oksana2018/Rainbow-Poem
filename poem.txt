@@ -4,3 +4,7 @@ OB
 yellow
 blue
 Favourite color is blue
+Duplicated file
+rrrrr
+Today is Monday
+Tommorow is Tuesday
